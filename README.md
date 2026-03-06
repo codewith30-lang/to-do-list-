@@ -1,50 +1,46 @@
-📝 To-Do List Application (Python)
+# 📝 To-Do List Application (Python)
 
 A simple command-line To-Do List application built using Python.
-This project allows users to manage their daily tasks by adding, viewing, and marking tasks as completed.
-
-It is a beginner-friendly project that demonstrates basic Python programming concepts.
+It allows users to manage daily tasks by adding, viewing, and marking tasks as completed.
 
 🚀 Features
 
-Add new tasks
+  * Add new tasks
 
-View all tasks
+  * View all tasks
 
-Mark tasks as completed
+  * Mark tasks as completed
 
-Simple command-line interface
+  * Simple command-line interface
 
-🛠️ Built With
+🛠️ Built With: Python
 
-Python
+📂 Project Structure: 
 
-📂 Project Structure
-CodeAlpha_ToDoList/
-│
-├── TodoList.py
-└── README.md
+    CodeAlpha_ToDoList/
+    │
+    ├── TodoList.py
+    └── README.md
+
 ▶️ How to Run
 
-Clone the repository
-
-git clone https://github.com/your-username/CodeAlpha_ToDoList.git
-
-Go to the project folder
-
-cd CodeAlpha_ToDoList
-
-Run the program
-
-python TodoList.py
+    Clone the repository: git clone https://github.com/your-username/CodeAlpha_ToDoList.git 
+    Go to the project folder: cd CodeAlpha_ToDoList
+    Run the program: python TodoList.py
+    
 📚 What I Learned
 
-Working with lists in Python
+  * Working with lists in Python
 
-Using loops and conditional statements
+  * Using loops and conditional statements
 
-Taking user input
+  *  Taking user input
 
-Creating a menu-driven program
+ *   Creating a simple menu-driven program
 
-⭐ This project was created as part of my Python learning journey.
+⭐ Created as part of my Python learning journey.
+
+
+Project structure displayed correctly
+
+Sections separated clearly
